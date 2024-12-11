@@ -124,13 +124,8 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
   description: "My name is Alejandro Bautista....",
-  email: "alexbautistars@gmail.com",
-  phone: "+8801608797655",
   github: "https://github.com/alexbautistars",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
   linkedIn: "https://www.linkedin.com/in/alejandro-bautista-55265231b/",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
   devUsername: "alexbautistars",
   resume: "...",
 };
