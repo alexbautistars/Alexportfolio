@@ -1,8 +1,6 @@
 const path = require('path');  
 
 module.exports = {  
-  // Enable static export  
-  output: 'export',  
 
   // Sass options  
   sassOptions: {  
